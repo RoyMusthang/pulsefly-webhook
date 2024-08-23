@@ -1,0 +1,19 @@
+{
+  "name": "pulsefly-webhook",
+  "version": "1.0.0",
+  "description": "hand-shake in gerencianet api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:RoyMusthang/pulsefly-webhook.git"
+  },
+  "author": "josue lobo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "morgan": "^1.10.0"
+  }
+}
